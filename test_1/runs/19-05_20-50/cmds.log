@@ -1,0 +1,14 @@
+Wed May 19 20:50:51 UTC 2021 - Executing "python3 /openLANE_flow/scripts/extract_metal_layers.py -t /home/egor/openlane/pdks/sky130A/libs.ref/sky130_fd_sc_hd/techlef/sky130_fd_sc_hd.tlef -o /openLANE_flow/designs/test_1/runs/19-05_20-50/tmp/met_layers_list.txt"
+
+Wed May 19 20:50:51 UTC 2021 - Executing "/openLANE_flow/scripts/mergeLef.py -i /home/egor/openlane/pdks/sky130A/libs.ref/sky130_fd_sc_hd/techlef/sky130_fd_sc_hd.tlef {/home/egor/openlane/pdks/sky130A/libs.ref/sky130_fd_sc_hd/lef/sky130_ef_sc_hd__fakediode_2.lef /home/egor/openlane/pdks/sky130A/libs.ref/sky130_fd_sc_hd/lef/sky130_ef_sc_hd__decap_12.lef /home/egor/openlane/pdks/sky130A/libs.ref/sky130_fd_sc_hd/lef/sky130_fd_sc_hd.lef /home/egor/openlane/pdks/sky130A/libs.ref/sky130_fd_sc_hd/lef/sky130_ef_sc_hd__fill_12.lef} -o /openLANE_flow/designs/test_1/runs/19-05_20-50/tmp/merged_unpadded.lef |& tee >&@stdout"
+
+Wed May 19 20:50:51 UTC 2021 - Executing "/openLANE_flow/scripts/libtrim.pl /home/egor/openlane/pdks/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__tt_025C_1v80.lib /openLANE_flow/designs/test_1/runs/19-05_20-50/tmp/trimmed.lib.exclude.list > /openLANE_flow/designs/test_1/runs/19-05_20-50/tmp/trimmed.lib"
+
+Wed May 19 20:50:52 UTC 2021 - Executing "echo {openlane v0.15} > /openLANE_flow/designs/test_1/runs/19-05_20-50/OPENLANE_VERSION"
+
+Wed May 19 20:50:52 UTC 2021 - Executing "sed -E {s/^([[:space:]]+)pg_pin(.*)/\1pin\2\n\1    direction : "inout";/g} /home/egor/openlane/pdks/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__tt_025C_1v80.lib > /openLANE_flow/designs/test_1/runs/19-05_20-50/tmp/sky130_fd_sc_hd__tt_025C_1v80.no_pg.lib"
+
+Wed May 19 20:50:52 UTC 2021 - Executing "yosys -c /openLANE_flow/scripts/synth.tcl -l /openLANE_flow/designs/test_1/runs/19-05_20-50/logs/synthesis/1-yosys.log |& tee >&@stdout"
+
+Wed May 19 20:50:52 UTC 2021 - Executing "python3 /openLANE_flow/report_generation_wrapper.py -d /openLANE_flow/designs/test_1 -dn test_1 -t 19-05_20-50 -o /openLANE_flow/designs/test_1/runs/19-05_20-50/reports/final_summary_report.csv -m /openLANE_flow/designs/test_1/runs/19-05_20-50/reports/manufacturability_report.rpt -rs /openLANE_flow/designs/test_1/runs/19-05_20-50/reports/runtime_summary_report.rpt -r /openLANE_flow/designs/test_1/runs/19-05_20-50"
+
