@@ -1,0 +1,18 @@
+Using Techfile: /home/egor/openlane/pdks/sky130A/libs.tech/klayout/sky130A.lyt
+Using DEF file: /openLANE_flow/designs/test_2/runs/19-05_21-25/results/routing/test_2.def
+Design Name: test_2
+Output GDS will be: /openLANE_flow/designs/test_2/runs/19-05_21-25/results/klayout/test_2.gds
+Extra GDSes:
+/home/egor/openlane/pdks/sky130A/libs.ref/sky130_fd_sc_hd/gds/sky130_ef_sc_hd__fakediode_2.gds /home/egor/openlane/pdks/sky130A/libs.ref/sky130_fd_sc_hd/gds/sky130_fd_sc_hd.gds /home/egor/openlane/pdks/sky130A/libs.ref/sky130_fd_sc_hd/gds/sky130_ef_sc_hd__fill_12.gds /home/egor/openlane/pdks/sky130A/libs.ref/sky130_fd_sc_hd/gds/sky130_ef_sc_hd__decap_12.gds
+[INFO] Clearing cells...
+[INFO] Merging GDS files...
+	/home/egor/openlane/pdks/sky130A/libs.ref/sky130_fd_sc_hd/gds/sky130_ef_sc_hd__fakediode_2.gds
+	/home/egor/openlane/pdks/sky130A/libs.ref/sky130_fd_sc_hd/gds/sky130_fd_sc_hd.gds
+	/home/egor/openlane/pdks/sky130A/libs.ref/sky130_fd_sc_hd/gds/sky130_ef_sc_hd__fill_12.gds
+	/home/egor/openlane/pdks/sky130A/libs.ref/sky130_fd_sc_hd/gds/sky130_ef_sc_hd__decap_12.gds
+[INFO] Copying toplevel cell 'test_2'
+WARNING: no fill config file specified
+[INFO] Checking for missing GDS...
+[INFO] All LEF cells have matching GDS cells
+[INFO] Writing out GDS '/openLANE_flow/designs/test_2/runs/19-05_21-25/results/klayout/test_2.gds'
+Done

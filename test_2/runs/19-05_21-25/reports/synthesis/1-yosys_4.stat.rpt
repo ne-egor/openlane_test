@@ -1,0 +1,19 @@
+
+28. Printing statistics.
+
+=== test_2 ===
+
+   Number of wires:                  8
+   Number of wire bits:             12
+   Number of public wires:           4
+   Number of public wire bits:       8
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  8
+     sky130_fd_sc_hd__a21oi_2        2
+     sky130_fd_sc_hd__inv_2          4
+     sky130_fd_sc_hd__nor2_2         2
+
+   Chip area for module '\test_2': 45.043200
+

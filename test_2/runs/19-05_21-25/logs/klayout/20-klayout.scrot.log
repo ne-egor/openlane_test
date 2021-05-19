@@ -1,0 +1,6 @@
+Using Techfile: /home/egor/openlane/pdks/sky130A/libs.tech/klayout/sky130A.lyt
+Using layout file: /openLANE_flow/designs/test_2/runs/19-05_21-25/results/routing/test_2.def
+[INFO] Reading tech file: /home/egor/openlane/pdks/sky130A/libs.tech/klayout/sky130A.lyt
+[INFO] Reading Layout file: /openLANE_flow/designs/test_2/runs/19-05_21-25/results/routing/test_2.def
+[INFO] Writing out PNG screenshot '/openLANE_flow/designs/test_2/runs/19-05_21-25/results/routing/test_2.def.png'
+Done

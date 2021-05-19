@@ -1,0 +1,17 @@
+Notice 0: Reading LEF file:  /openLANE_flow/designs/test_2/runs/19-05_21-25/tmp/merged_unpadded.lef
+Notice 0:     Created 13 technology layers
+Notice 0:     Created 25 technology vias
+Notice 0:     Created 440 library cells
+Notice 0: Finished LEF file:  /openLANE_flow/designs/test_2/runs/19-05_21-25/tmp/merged_unpadded.lef
+Notice 0: 
+Reading DEF file: /openLANE_flow/designs/test_2/runs/19-05_21-25/tmp/floorplan/7-pdn.def
+Notice 0: Design: test_2
+Notice 0:     Created 10 pins.
+Notice 0:     Created 39 components and 164 component-terminals.
+Notice 0:     Created 2 special nets and 0 connections.
+Notice 0:     Created 12 nets and 22 connections.
+Notice 0: Finished DEF file: /openLANE_flow/designs/test_2/runs/19-05_21-25/tmp/floorplan/7-pdn.def
+Design name: test_2
+Core Area Boundaries: 5520 10880 28520 43520
+Number of instances 39
+Placed 8 instances

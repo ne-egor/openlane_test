@@ -1,0 +1,662 @@
+Warning - class CORE ANTENNACELL is not found. This msg can be ignored if not in the antenna-avoid flow
+
+Net - a[0]
+  input1  (sky130_fd_sc_hd__buf_1)  A
+[1]  met2:
+  PAR:    6.60  Ratio:    0.00       (Area)
+  PAR:   34.52  Ratio:  400.00       (S.Area)
+  CAR:    6.78  Ratio:    0.00       (C.Area)
+  CAR:   35.10  Ratio:    0.00       (C.S.Area)
+
+[1]  met1:
+  PAR:    0.10  Ratio:    0.00       (Area)
+  PAR:    0.50  Ratio:  400.00       (S.Area)
+  CAR:    0.17  Ratio:    0.00       (C.Area)
+  CAR:    0.59  Ratio:    0.00       (C.S.Area)
+
+[1]  li1:
+  PAR:    0.07  Ratio:    0.00       (Area)
+  PAR:    0.09  Ratio:   75.00       (S.Area)
+  CAR:    0.07  Ratio:    0.00       (C.Area)
+  CAR:    0.09  Ratio:    0.00       (C.S.Area)
+
+[1]  M1M2_PR:
+  PAR:    0.11  Ratio:    6.00       (Area)
+  CAR:    0.26  Ratio:    0.00       (C.Area)
+
+[1]  L1M1_PR_MR:
+  PAR:    0.15  Ratio:    3.00       (Area)
+  CAR:    0.15  Ratio:    0.00       (C.Area)
+
+
+Net - a[1]
+  input2  (sky130_fd_sc_hd__clkbuf_1)  A
+[1]  met3:
+  PAR:    6.30  Ratio:    0.00       (Area)
+  PAR:   36.00  Ratio:  400.00       (S.Area)
+  CAR:   10.86  Ratio:    0.00       (C.Area)
+  CAR:   59.03  Ratio:    0.00       (C.S.Area)
+
+[1]  met2:
+  PAR:    4.39  Ratio:    0.00       (Area)
+  PAR:   22.44  Ratio:  400.00       (S.Area)
+  CAR:    4.56  Ratio:    0.00       (C.Area)
+  CAR:   23.03  Ratio:    0.00       (C.S.Area)
+
+[1]  met1:
+  PAR:    0.10  Ratio:    0.00       (Area)
+  PAR:    0.50  Ratio:  400.00       (S.Area)
+  CAR:    0.17  Ratio:    0.00       (C.Area)
+  CAR:    0.59  Ratio:    0.00       (C.S.Area)
+
+[1]  li1:
+  PAR:    0.07  Ratio:    0.00       (Area)
+  PAR:    0.09  Ratio:   75.00       (S.Area)
+  CAR:    0.07  Ratio:    0.00       (C.Area)
+  CAR:    0.09  Ratio:    0.00       (C.S.Area)
+
+[1]  via2_FR:
+  PAR:    0.20  Ratio:    6.00       (Area)
+  CAR:    0.47  Ratio:    0.00       (C.Area)
+
+[1]  M1M2_PR:
+  PAR:    0.11  Ratio:    6.00       (Area)
+  CAR:    0.26  Ratio:    0.00       (C.Area)
+
+[1]  L1M1_PR_MR:
+  PAR:    0.15  Ratio:    3.00       (Area)
+  CAR:    0.15  Ratio:    0.00       (C.Area)
+
+
+Net - b[0]
+  input3  (sky130_fd_sc_hd__clkbuf_1)  A
+[1]  met3:
+  PAR:    6.30  Ratio:    0.00       (Area)
+  PAR:   36.00  Ratio:  400.00       (S.Area)
+  CAR:    7.23  Ratio:    0.00       (C.Area)
+  CAR:   40.86  Ratio:    0.00       (C.S.Area)
+
+[1]  met2:
+  PAR:    0.76  Ratio:    0.00       (Area)
+  PAR:    4.27  Ratio:  400.00       (S.Area)
+  CAR:    0.93  Ratio:    0.00       (C.Area)
+  CAR:    4.86  Ratio:    0.00       (C.S.Area)
+
+[1]  met1:
+  PAR:    0.10  Ratio:    0.00       (Area)
+  PAR:    0.50  Ratio:  400.00       (S.Area)
+  CAR:    0.17  Ratio:    0.00       (C.Area)
+  CAR:    0.59  Ratio:    0.00       (C.S.Area)
+
+[1]  li1:
+  PAR:    0.07  Ratio:    0.00       (Area)
+  PAR:    0.09  Ratio:   75.00       (S.Area)
+  CAR:    0.07  Ratio:    0.00       (C.Area)
+  CAR:    0.09  Ratio:    0.00       (C.S.Area)
+
+[1]  via2_FR:
+  PAR:    0.20  Ratio:    6.00       (Area)
+  CAR:    0.47  Ratio:    0.00       (C.Area)
+
+[1]  M1M2_PR:
+  PAR:    0.11  Ratio:    6.00       (Area)
+  CAR:    0.26  Ratio:    0.00       (C.Area)
+
+[1]  L1M1_PR_MR:
+  PAR:    0.15  Ratio:    3.00       (Area)
+  CAR:    0.15  Ratio:    0.00       (C.Area)
+
+
+Net - b[1]
+  input4  (sky130_fd_sc_hd__buf_1)  A
+[1]  met2:
+  PAR:    6.28  Ratio:    0.00       (Area)
+  PAR:   31.88  Ratio:  400.00       (S.Area)
+  CAR:    9.73  Ratio:    0.00       (C.Area)
+  CAR:   49.35  Ratio:    0.00       (C.S.Area)
+
+[1]  met1:
+  PAR:    3.38  Ratio:    0.00       (Area)
+  PAR:   17.38  Ratio:  400.00       (S.Area)
+  CAR:    3.45  Ratio:    0.00       (C.Area)
+  CAR:   17.47  Ratio:    0.00       (C.S.Area)
+
+[1]  li1:
+  PAR:    0.07  Ratio:    0.00       (Area)
+  PAR:    0.09  Ratio:   75.00       (S.Area)
+  CAR:    0.07  Ratio:    0.00       (C.Area)
+  CAR:    0.09  Ratio:    0.00       (C.S.Area)
+
+[1]  M1M2_PR:
+  PAR:    0.11  Ratio:    6.00       (Area)
+  CAR:    0.26  Ratio:    0.00       (C.Area)
+
+[1]  L1M1_PR_MR:
+  PAR:    0.15  Ratio:    3.00       (Area)
+  CAR:    0.15  Ratio:    0.00       (C.Area)
+
+
+Net - f_and[0]
+  No sinks on this net
+
+Net - f_and[1]
+  No sinks on this net
+
+Net - f_xor[0]
+  No sinks on this net
+
+Net - f_xor[1]
+  No sinks on this net
+
+Net - _00_
+  _10_  (sky130_fd_sc_hd__a21oi_1)  A2
+[1]  met2:
+  PAR:    4.09  Ratio:    0.00       (Area)
+  PAR:   20.62  Ratio: 2778.20       (S.Area)
+  CAR:    6.24  Ratio:    0.00       (C.Area)
+  CAR:   31.95  Ratio:    0.00       (C.S.Area)
+
+[1]  met1:
+  PAR:    2.09  Ratio:    0.00       (Area)
+  PAR:   11.26  Ratio:  400.00       (S.Area)
+  CAR:    2.15  Ratio:    0.00       (C.Area)
+  CAR:   11.33  Ratio:    0.00       (C.S.Area)
+
+[1]  li1:
+  PAR:    0.06  Ratio:    0.00       (Area)
+  PAR:    0.07  Ratio:   75.00       (S.Area)
+  CAR:    0.06  Ratio:    0.00       (C.Area)
+  CAR:    0.07  Ratio:    0.00       (C.S.Area)
+
+[1]  M1M2_PR:
+  PAR:    0.09  Ratio:    6.00       (Area)
+  CAR:    0.21  Ratio:    0.00       (C.Area)
+
+[1]  L1M1_PR_MR:
+  PAR:    0.12  Ratio:    3.00       (Area)
+  CAR:    0.12  Ratio:    0.00       (C.Area)
+
+  _06_  (sky130_fd_sc_hd__nor2_2)  B
+[1]  met2:
+  PAR:    4.09  Ratio:    0.00       (Area)
+  PAR:   20.62  Ratio: 2778.20       (S.Area)
+  CAR:    4.90  Ratio:    0.00       (C.Area)
+  CAR:   24.98  Ratio:    0.00       (C.S.Area)
+
+[1]  met1:
+  PAR:    0.79  Ratio:    0.00       (Area)
+  PAR:    4.33  Ratio:  400.00       (S.Area)
+  CAR:    0.82  Ratio:    0.00       (C.Area)
+  CAR:    4.36  Ratio:    0.00       (C.S.Area)
+
+[1]  li1:
+  PAR:    0.03  Ratio:    0.00       (Area)
+  PAR:    0.03  Ratio:   75.00       (S.Area)
+  CAR:    0.03  Ratio:    0.00       (C.Area)
+  CAR:    0.03  Ratio:    0.00       (C.S.Area)
+
+[1]  M1M2_PR:
+  PAR:    0.05  Ratio:    6.00       (Area)
+  CAR:    0.10  Ratio:    0.00       (C.Area)
+
+[1]  L1M1_PR_MR:
+  PAR:    0.06  Ratio:    3.00       (Area)
+  CAR:    0.06  Ratio:    0.00       (C.Area)
+
+
+Net - _01_
+  _09_  (sky130_fd_sc_hd__nor2_2)  A
+[1]  met2:
+  PAR:    3.64  Ratio:    0.00       (Area)
+  PAR:   18.20  Ratio: 2778.20       (S.Area)
+  CAR:    4.84  Ratio:    0.00       (C.Area)
+  CAR:   24.38  Ratio:    0.00       (C.S.Area)
+
+[1]  met1:
+  PAR:    1.16  Ratio:    0.00       (Area)
+  PAR:    6.14  Ratio:  400.00       (S.Area)
+  CAR:    1.19  Ratio:    0.00       (C.Area)
+  CAR:    6.18  Ratio:    0.00       (C.S.Area)
+
+[1]  li1:
+  PAR:    0.03  Ratio:    0.00       (Area)
+  PAR:    0.03  Ratio:   75.00       (S.Area)
+  CAR:    0.03  Ratio:    0.00       (C.Area)
+  CAR:    0.03  Ratio:    0.00       (C.S.Area)
+
+[1]  M1M2_PR:
+  PAR:    0.03  Ratio:    6.00       (Area)
+  CAR:    0.09  Ratio:    0.00       (C.Area)
+
+[1]  L1M1_PR_MR:
+  PAR:    0.06  Ratio:    3.00       (Area)
+  CAR:    0.06  Ratio:    0.00       (C.Area)
+
+  _11_  (sky130_fd_sc_hd__a21oi_1)  A1
+[1]  met2:
+  PAR:    3.64  Ratio:    0.00       (Area)
+  PAR:   18.20  Ratio: 2778.20       (S.Area)
+  CAR:    4.87  Ratio:    0.00       (C.Area)
+  CAR:   24.41  Ratio:    0.00       (C.S.Area)
+
+[1]  met1:
+  PAR:    1.16  Ratio:    0.00       (Area)
+  PAR:    6.14  Ratio:  400.00       (S.Area)
+  CAR:    1.22  Ratio:    0.00       (C.Area)
+  CAR:    6.21  Ratio:    0.00       (C.S.Area)
+
+[1]  li1:
+  PAR:    0.06  Ratio:    0.00       (Area)
+  PAR:    0.07  Ratio:   75.00       (S.Area)
+  CAR:    0.06  Ratio:    0.00       (C.Area)
+  CAR:    0.07  Ratio:    0.00       (C.S.Area)
+
+[1]  M1M2_PR:
+  PAR:    0.03  Ratio:    6.00       (Area)
+  CAR:    0.15  Ratio:    0.00       (C.Area)
+
+[1]  L1M1_PR_MR:
+  PAR:    0.12  Ratio:    3.00       (Area)
+  CAR:    0.12  Ratio:    0.00       (C.Area)
+
+
+Net - _02_
+  _09_  (sky130_fd_sc_hd__nor2_2)  B
+[1]  met2:
+  PAR:    1.00  Ratio:    0.00       (Area)
+  PAR:    5.17  Ratio: 2778.20       (S.Area)
+  CAR:    1.06  Ratio:    0.00       (C.Area)
+  CAR:    5.40  Ratio:    0.00       (C.S.Area)
+
+[1]  met1:
+  PAR:    0.04  Ratio:    0.00       (Area)
+  PAR:    0.20  Ratio:  400.00       (S.Area)
+  CAR:    0.07  Ratio:    0.00       (C.Area)
+  CAR:    0.23  Ratio:    0.00       (C.S.Area)
+
+[1]  li1:
+  PAR:    0.03  Ratio:    0.00       (Area)
+  PAR:    0.03  Ratio:   75.00       (S.Area)
+  CAR:    0.03  Ratio:    0.00       (C.Area)
+  CAR:    0.03  Ratio:    0.00       (C.S.Area)
+
+[1]  M1M2_PR:
+  PAR:    0.05  Ratio:    6.00       (Area)
+  CAR:    0.10  Ratio:    0.00       (C.Area)
+
+[1]  L1M1_PR_MR:
+  PAR:    0.06  Ratio:    3.00       (Area)
+  CAR:    0.06  Ratio:    0.00       (C.Area)
+
+  _11_  (sky130_fd_sc_hd__a21oi_1)  A2
+[1]  met2:
+  PAR:    1.00  Ratio:    0.00       (Area)
+  PAR:    5.17  Ratio: 2778.20       (S.Area)
+  CAR:    5.88  Ratio:    0.00       (C.Area)
+  CAR:   31.36  Ratio:    0.00       (C.S.Area)
+
+[1]  met1:
+  PAR:    4.83  Ratio:    0.00       (Area)
+  PAR:   26.12  Ratio:  400.00       (S.Area)
+  CAR:    4.89  Ratio:    0.00       (C.Area)
+  CAR:   26.19  Ratio:    0.00       (C.S.Area)
+
+[1]  li1:
+  PAR:    0.06  Ratio:    0.00       (Area)
+  PAR:    0.07  Ratio:   75.00       (S.Area)
+  CAR:    0.06  Ratio:    0.00       (C.Area)
+  CAR:    0.07  Ratio:    0.00       (C.S.Area)
+
+[1]  M1M2_PR:
+  PAR:    0.09  Ratio:    6.00       (Area)
+  CAR:    0.21  Ratio:    0.00       (C.Area)
+
+[1]  L1M1_PR_MR:
+  PAR:    0.12  Ratio:    3.00       (Area)
+  CAR:    0.12  Ratio:    0.00       (C.Area)
+
+
+Net - _03_
+  _10_  (sky130_fd_sc_hd__a21oi_1)  A1
+[1]  met2:
+  PAR:    4.34  Ratio:    0.00       (Area)
+  PAR:   21.90  Ratio: 2778.20       (S.Area)
+  CAR:    4.74  Ratio:    0.00       (C.Area)
+  CAR:   24.07  Ratio:    0.00       (C.S.Area)
+
+[1]  met1:
+  PAR:    0.34  Ratio:    0.00       (Area)
+  PAR:    2.09  Ratio:  400.00       (S.Area)
+  CAR:    0.40  Ratio:    0.00       (C.Area)
+  CAR:    2.16  Ratio:    0.00       (C.S.Area)
+
+[1]  li1:
+  PAR:    0.06  Ratio:    0.00       (Area)
+  PAR:    0.07  Ratio:   75.00       (S.Area)
+  CAR:    0.06  Ratio:    0.00       (C.Area)
+  CAR:    0.07  Ratio:    0.00       (C.S.Area)
+
+[1]  M1M2_PR:
+  PAR:    0.09  Ratio:    6.00       (Area)
+  CAR:    0.21  Ratio:    0.00       (C.Area)
+
+[1]  L1M1_PR_MR:
+  PAR:    0.12  Ratio:    3.00       (Area)
+  CAR:    0.12  Ratio:    0.00       (C.Area)
+
+  _06_  (sky130_fd_sc_hd__nor2_2)  A
+[1]  met2:
+  PAR:    4.34  Ratio:    0.00       (Area)
+  PAR:   21.90  Ratio: 2778.20       (S.Area)
+  CAR:    5.71  Ratio:    0.00       (C.Area)
+  CAR:   28.84  Ratio:    0.00       (C.S.Area)
+
+[1]  met1:
+  PAR:    1.34  Ratio:    0.00       (Area)
+  PAR:    6.90  Ratio:  400.00       (S.Area)
+  CAR:    1.37  Ratio:    0.00       (C.Area)
+  CAR:    6.94  Ratio:    0.00       (C.S.Area)
+
+[1]  li1:
+  PAR:    0.03  Ratio:    0.00       (Area)
+  PAR:    0.03  Ratio:   75.00       (S.Area)
+  CAR:    0.03  Ratio:    0.00       (C.Area)
+  CAR:    0.03  Ratio:    0.00       (C.S.Area)
+
+[1]  M1M2_PR:
+  PAR:    0.05  Ratio:    6.00       (Area)
+  CAR:    0.10  Ratio:    0.00       (C.Area)
+
+[1]  L1M1_PR_MR:
+  PAR:    0.06  Ratio:    3.00       (Area)
+  CAR:    0.06  Ratio:    0.00       (C.Area)
+
+
+Net - net1
+  _05_  (sky130_fd_sc_hd__inv_2)  A
+[1]  met2:
+  PAR:    6.09  Ratio:    0.00       (Area)
+  PAR:   30.54  Ratio: 2736.24       (S.Area)
+  CAR:    6.68  Ratio:    0.00       (C.Area)
+  CAR:   33.57  Ratio:    0.00       (C.S.Area)
+
+[1]  met1:
+  PAR:    0.56  Ratio:    0.00       (Area)
+  PAR:    3.00  Ratio:  400.00       (S.Area)
+  CAR:    0.59  Ratio:    0.00       (C.Area)
+  CAR:    3.03  Ratio:    0.00       (C.S.Area)
+
+[1]  li1:
+  PAR:    0.03  Ratio:    0.00       (Area)
+  PAR:    0.03  Ratio:   75.00       (S.Area)
+  CAR:    0.03  Ratio:    0.00       (C.Area)
+  CAR:    0.03  Ratio:    0.00       (C.S.Area)
+
+[1]  M1M2_PR:
+  PAR:    0.05  Ratio:    6.00       (Area)
+  CAR:    0.10  Ratio:    0.00       (C.Area)
+
+[1]  L1M1_PR_MR:
+  PAR:    0.06  Ratio:    3.00       (Area)
+  CAR:    0.06  Ratio:    0.00       (C.Area)
+
+
+Net - net2
+  _08_  (sky130_fd_sc_hd__inv_2)  A
+[1]  met2:
+  PAR:    4.98  Ratio:    0.00       (Area)
+  PAR:   25.16  Ratio: 2736.24       (S.Area)
+  CAR:    5.43  Ratio:    0.00       (C.Area)
+  CAR:   27.55  Ratio:    0.00       (C.S.Area)
+
+[1]  met1:
+  PAR:    0.43  Ratio:    0.00       (Area)
+  PAR:    2.35  Ratio:  400.00       (S.Area)
+  CAR:    0.46  Ratio:    0.00       (C.Area)
+  CAR:    2.38  Ratio:    0.00       (C.S.Area)
+
+[1]  li1:
+  PAR:    0.03  Ratio:    0.00       (Area)
+  PAR:    0.03  Ratio:   75.00       (S.Area)
+  CAR:    0.03  Ratio:    0.00       (C.Area)
+  CAR:    0.03  Ratio:    0.00       (C.S.Area)
+
+[1]  M1M2_PR:
+  PAR:    0.05  Ratio:    6.00       (Area)
+  CAR:    0.10  Ratio:    0.00       (C.Area)
+
+[1]  L1M1_PR_MR:
+  PAR:    0.06  Ratio:    3.00       (Area)
+  CAR:    0.06  Ratio:    0.00       (C.Area)
+
+
+Net - net3
+  _04_  (sky130_fd_sc_hd__inv_2)  A
+[1]  met2:
+  PAR:    0.71  Ratio:    0.00       (Area)
+  PAR:    3.61  Ratio: 2736.24       (S.Area)
+  CAR:    0.77  Ratio:    0.00       (C.Area)
+  CAR:    3.84  Ratio:    0.00       (C.S.Area)
+
+[1]  met1:
+  PAR:    0.04  Ratio:    0.00       (Area)
+  PAR:    0.20  Ratio:  400.00       (S.Area)
+  CAR:    0.07  Ratio:    0.00       (C.Area)
+  CAR:    0.23  Ratio:    0.00       (C.S.Area)
+
+[1]  li1:
+  PAR:    0.03  Ratio:    0.00       (Area)
+  PAR:    0.03  Ratio:   75.00       (S.Area)
+  CAR:    0.03  Ratio:    0.00       (C.Area)
+  CAR:    0.03  Ratio:    0.00       (C.S.Area)
+
+[1]  M1M2_PR:
+  PAR:    0.05  Ratio:    6.00       (Area)
+  CAR:    0.10  Ratio:    0.00       (C.Area)
+
+[1]  L1M1_PR_MR:
+  PAR:    0.06  Ratio:    3.00       (Area)
+  CAR:    0.06  Ratio:    0.00       (C.Area)
+
+
+Net - net4
+  _07_  (sky130_fd_sc_hd__inv_2)  A
+[1]  met2:
+  PAR:    7.63  Ratio:    0.00       (Area)
+  PAR:   38.23  Ratio: 2736.24       (S.Area)
+  CAR:    7.70  Ratio:    0.00       (C.Area)
+  CAR:   38.46  Ratio:    0.00       (C.S.Area)
+
+[1]  met1:
+  PAR:    0.04  Ratio:    0.00       (Area)
+  PAR:    0.20  Ratio:  400.00       (S.Area)
+  CAR:    0.07  Ratio:    0.00       (C.Area)
+  CAR:    0.23  Ratio:    0.00       (C.S.Area)
+
+[1]  li1:
+  PAR:    0.03  Ratio:    0.00       (Area)
+  PAR:    0.03  Ratio:   75.00       (S.Area)
+  CAR:    0.03  Ratio:    0.00       (C.Area)
+  CAR:    0.03  Ratio:    0.00       (C.S.Area)
+
+[1]  M1M2_PR:
+  PAR:    0.05  Ratio:    6.00       (Area)
+  CAR:    0.10  Ratio:    0.00       (C.Area)
+
+[1]  L1M1_PR_MR:
+  PAR:    0.06  Ratio:    3.00       (Area)
+  CAR:    0.06  Ratio:    0.00       (C.Area)
+
+
+Net - net5
+  _10_  (sky130_fd_sc_hd__a21oi_1)  B1
+[1]  met2:
+  PAR:    8.49  Ratio:    0.00       (Area)
+  PAR:   43.16  Ratio: 2848.40       (S.Area)
+  CAR:   10.18  Ratio:    0.00       (C.Area)
+  CAR:   51.83  Ratio:    0.00       (C.S.Area)
+
+[1]  met1:
+  PAR:    1.64  Ratio:    0.00       (Area)
+  PAR:    8.60  Ratio:  400.00       (S.Area)
+  CAR:    1.70  Ratio:    0.00       (C.Area)
+  CAR:    8.67  Ratio:    0.00       (C.S.Area)
+
+[1]  li1:
+  PAR:    0.06  Ratio:    0.00       (Area)
+  PAR:    0.07  Ratio:   75.00       (S.Area)
+  CAR:    0.06  Ratio:    0.00       (C.Area)
+  CAR:    0.07  Ratio:    0.00       (C.S.Area)
+
+[1]  M1M2_PR:
+  PAR:    0.09  Ratio:    6.00       (Area)
+  CAR:    0.21  Ratio:    0.00       (C.Area)
+
+[1]  L1M1_PR_MR:
+  PAR:    0.12  Ratio:    3.00       (Area)
+  CAR:    0.12  Ratio:    0.00       (C.Area)
+
+  output5  (sky130_fd_sc_hd__clkbuf_2)  A
+[1]  met2:
+  PAR:    8.49  Ratio:    0.00       (Area)
+  PAR:   43.16  Ratio: 2848.40       (S.Area)
+  CAR:   11.06  Ratio:    0.00       (C.Area)
+  CAR:   56.26  Ratio:    0.00       (C.S.Area)
+
+[1]  met1:
+  PAR:    2.51  Ratio:    0.00       (Area)
+  PAR:   13.01  Ratio:  400.00       (S.Area)
+  CAR:    2.58  Ratio:    0.00       (C.Area)
+  CAR:   13.09  Ratio:    0.00       (C.S.Area)
+
+[1]  li1:
+  PAR:    0.07  Ratio:    0.00       (Area)
+  PAR:    0.08  Ratio:   75.00       (S.Area)
+  CAR:    0.07  Ratio:    0.00       (C.Area)
+  CAR:    0.08  Ratio:    0.00       (C.S.Area)
+
+[1]  M1M2_PR:
+  PAR:    0.11  Ratio:    6.00       (Area)
+  CAR:    0.24  Ratio:    0.00       (C.Area)
+
+[1]  L1M1_PR_MR:
+  PAR:    0.14  Ratio:    3.00       (Area)
+  CAR:    0.14  Ratio:    0.00       (C.Area)
+
+
+Net - net6
+  _11_  (sky130_fd_sc_hd__a21oi_1)  B1
+[1]  met1:
+  PAR:    6.55  Ratio:    0.00       (Area)
+  PAR:   34.09  Ratio: 2848.40       (S.Area)
+  CAR:    6.60  Ratio:    0.00       (C.Area)
+  CAR:   34.16  Ratio:    0.00       (C.S.Area)
+
+[1]  li1:
+  PAR:    0.06  Ratio:    0.00       (Area)
+  PAR:    0.07  Ratio:   75.00       (S.Area)
+  CAR:    0.06  Ratio:    0.00       (C.Area)
+  CAR:    0.07  Ratio:    0.00       (C.S.Area)
+
+[1]  met2:
+  PAR:    6.57  Ratio:    0.00       (Area)
+  PAR:   32.93  Ratio: 2848.40       (S.Area)
+  CAR:   13.17  Ratio:    0.00       (C.Area)
+  CAR:   67.09  Ratio:    0.00       (C.S.Area)
+
+[1]  M1M2_PR:
+  PAR:    0.09  Ratio:    6.00       (Area)
+  CAR:    0.21  Ratio:    0.00       (C.Area)
+
+[1]  L1M1_PR_MR:
+  PAR:    0.12  Ratio:    3.00       (Area)
+  CAR:    0.12  Ratio:    0.00       (C.Area)
+
+  output6  (sky130_fd_sc_hd__clkbuf_2)  A
+[1]  met2:
+  PAR:    6.57  Ratio:    0.00       (Area)
+  PAR:   32.93  Ratio: 2848.40       (S.Area)
+  CAR:    7.63  Ratio:    0.00       (C.Area)
+  CAR:   38.47  Ratio:    0.00       (C.S.Area)
+
+[1]  met1:
+  PAR:    1.00  Ratio:    0.00       (Area)
+  PAR:    5.46  Ratio:  400.00       (S.Area)
+  CAR:    1.07  Ratio:    0.00       (C.Area)
+  CAR:    5.54  Ratio:    0.00       (C.S.Area)
+
+[1]  li1:
+  PAR:    0.07  Ratio:    0.00       (Area)
+  PAR:    0.08  Ratio:   75.00       (S.Area)
+  CAR:    0.07  Ratio:    0.00       (C.Area)
+  CAR:    0.08  Ratio:    0.00       (C.S.Area)
+
+[1]  M1M2_PR:
+  PAR:    0.11  Ratio:    6.00       (Area)
+  CAR:    0.24  Ratio:    0.00       (C.Area)
+
+[1]  L1M1_PR_MR:
+  PAR:    0.14  Ratio:    3.00       (Area)
+  CAR:    0.14  Ratio:    0.00       (C.Area)
+
+
+Net - net7
+  output7  (sky130_fd_sc_hd__clkbuf_2)  A
+[1]  met2:
+  PAR:    8.79  Ratio:    0.00       (Area)
+  PAR:   44.15  Ratio: 2778.80       (S.Area)
+  CAR:    9.25  Ratio:    0.00       (C.Area)
+  CAR:   46.66  Ratio:    0.00       (C.S.Area)
+
+[1]  met1:
+  PAR:    0.39  Ratio:    0.00       (Area)
+  PAR:    2.43  Ratio:  400.00       (S.Area)
+  CAR:    0.46  Ratio:    0.00       (C.Area)
+  CAR:    2.51  Ratio:    0.00       (C.S.Area)
+
+[1]  li1:
+  PAR:    0.07  Ratio:    0.00       (Area)
+  PAR:    0.08  Ratio:   75.00       (S.Area)
+  CAR:    0.07  Ratio:    0.00       (C.Area)
+  CAR:    0.08  Ratio:    0.00       (C.S.Area)
+
+[1]  M1M2_PR:
+  PAR:    0.11  Ratio:    6.00       (Area)
+  CAR:    0.24  Ratio:    0.00       (C.Area)
+
+[1]  L1M1_PR_MR:
+  PAR:    0.14  Ratio:    3.00       (Area)
+  CAR:    0.14  Ratio:    0.00       (C.Area)
+
+
+Net - net8
+  output8  (sky130_fd_sc_hd__clkbuf_2)  A
+[1]  met2:
+  PAR:    5.21  Ratio:    0.00       (Area)
+  PAR:   26.27  Ratio: 2778.80       (S.Area)
+  CAR:   11.12  Ratio:    0.00       (C.Area)
+  CAR:   56.00  Ratio:    0.00       (C.S.Area)
+
+[1]  met1:
+  PAR:    5.84  Ratio:    0.00       (Area)
+  PAR:   29.64  Ratio:  400.00       (S.Area)
+  CAR:    5.90  Ratio:    0.00       (C.Area)
+  CAR:   29.72  Ratio:    0.00       (C.S.Area)
+
+[1]  li1:
+  PAR:    0.07  Ratio:    0.00       (Area)
+  PAR:    0.08  Ratio:   75.00       (S.Area)
+  CAR:    0.07  Ratio:    0.00       (C.Area)
+  CAR:    0.08  Ratio:    0.00       (C.S.Area)
+
+[1]  M1M2_PR:
+  PAR:    0.11  Ratio:    6.00       (Area)
+  CAR:    0.24  Ratio:    0.00       (C.Area)
+
+[1]  L1M1_PR_MR:
+  PAR:    0.14  Ratio:    3.00       (Area)
+  CAR:    0.14  Ratio:    0.00       (C.Area)
+
+Number of pins violated: 0
+Number of nets violated: 0
+Total number of unspecial nets: 20

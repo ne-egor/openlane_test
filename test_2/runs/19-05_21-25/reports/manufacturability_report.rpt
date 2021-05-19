@@ -1,0 +1,19 @@
+Design Name: test_2
+Run Directory: /openLANE_flow/designs/test_2/runs/19-05_21-25
+----------------------------------------
+
+Magic DRC Summary:
+Source: /openLANE_flow/designs/test_2/runs/19-05_21-25/reports/magic//37-magic.drc
+Total Magic DRC violations is 0
+----------------------------------------
+
+LVS Summary:
+Source: /openLANE_flow/designs/test_2/runs/19-05_21-25/results/lvs/test_2.lvs_parsed.lef.log
+LVS reports no net, device, pin, or property mismatches.
+Total errors = 0
+----------------------------------------
+
+Antenna Summary:
+Source: /openLANE_flow/designs/test_2/runs/19-05_21-25/reports/routing//39-antenna.rpt
+Number of pins violated: 0
+Number of nets violated: 0
