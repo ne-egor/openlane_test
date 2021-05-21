@@ -1,0 +1,19 @@
+Notice 0: Reading LEF file:  /openLANE_flow/designs/sm_cpu/runs/20-05_20-11/tmp/merged.lef
+Notice 0:     Created 13 technology layers
+Notice 0:     Created 25 technology vias
+Notice 0:     Created 440 library cells
+Notice 0: Finished LEF file:  /openLANE_flow/designs/sm_cpu/runs/20-05_20-11/tmp/merged.lef
+Notice 0: 
+Reading DEF file: /openLANE_flow/designs/sm_cpu/runs/20-05_20-11/results/routing/sm_cpu.def
+Notice 0: Design: sm_cpu
+Notice 0:     Created 113 pins.
+Notice 0:     Created 18338 components and 91767 component-terminals.
+Notice 0:     Created 2 special nets and 0 connections.
+Notice 0:     Created 5581 nets and 22391 connections.
+Notice 0: Finished DEF file: /openLANE_flow/designs/sm_cpu/runs/20-05_20-11/results/routing/sm_cpu.def
+Top-level design name: sm_cpu
+Default power net:  VPWR
+Default ground net: VGND
+Found a total of 1 power ports.
+Found a total of 1 ground ports.
+Modified power connections of 18338 cells (Remaining: 0 ).

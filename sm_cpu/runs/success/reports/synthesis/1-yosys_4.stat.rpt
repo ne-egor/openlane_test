@@ -1,0 +1,62 @@
+
+30. Printing statistics.
+
+=== sm_cpu ===
+
+   Number of wires:               5062
+   Number of wire bits:           5159
+   Number of public wires:        1094
+   Number of public wire bits:    1191
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:               5120
+     sky130_fd_sc_hd__a211o_2        3
+     sky130_fd_sc_hd__a21bo_2       21
+     sky130_fd_sc_hd__a21o_2        10
+     sky130_fd_sc_hd__a21oi_2        4
+     sky130_fd_sc_hd__a221o_2        5
+     sky130_fd_sc_hd__a22o_2      1067
+     sky130_fd_sc_hd__a2bb2o_2       5
+     sky130_fd_sc_hd__a2bb2oi_2     35
+     sky130_fd_sc_hd__a31o_2         8
+     sky130_fd_sc_hd__a31oi_2        2
+     sky130_fd_sc_hd__a32o_2         4
+     sky130_fd_sc_hd__and2_2         6
+     sky130_fd_sc_hd__and3_2         3
+     sky130_fd_sc_hd__and4_2         1
+     sky130_fd_sc_hd__buf_1        752
+     sky130_fd_sc_hd__dfrtp_2       32
+     sky130_fd_sc_hd__dfxtp_2     1024
+     sky130_fd_sc_hd__inv_2        240
+     sky130_fd_sc_hd__mux2_1       390
+     sky130_fd_sc_hd__mux4_1       960
+     sky130_fd_sc_hd__nand2_2       48
+     sky130_fd_sc_hd__nand2b_2      32
+     sky130_fd_sc_hd__nor2_2        37
+     sky130_fd_sc_hd__nor3_2         6
+     sky130_fd_sc_hd__nor4_2         1
+     sky130_fd_sc_hd__o2111a_2       3
+     sky130_fd_sc_hd__o211a_2        3
+     sky130_fd_sc_hd__o21a_2        29
+     sky130_fd_sc_hd__o21ai_2       67
+     sky130_fd_sc_hd__o221a_2       12
+     sky130_fd_sc_hd__o221ai_2      20
+     sky130_fd_sc_hd__o22a_2        64
+     sky130_fd_sc_hd__o22ai_2       17
+     sky130_fd_sc_hd__o2bb2a_2      17
+     sky130_fd_sc_hd__o2bb2ai_2      3
+     sky130_fd_sc_hd__o311a_2        2
+     sky130_fd_sc_hd__o31a_2         9
+     sky130_fd_sc_hd__o31ai_2        1
+     sky130_fd_sc_hd__o32a_2         3
+     sky130_fd_sc_hd__or2_2        109
+     sky130_fd_sc_hd__or2b_2         1
+     sky130_fd_sc_hd__or3_2         27
+     sky130_fd_sc_hd__or3b_2         1
+     sky130_fd_sc_hd__or4_2         28
+     sky130_fd_sc_hd__or4b_2         7
+     sky130_fd_sc_hd__or4bb_2        1
+
+   Chip area for module '\sm_cpu': 72567.097600
+

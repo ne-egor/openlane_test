@@ -1,0 +1,28 @@
+
+22. Printing statistics.
+
+=== sm_cpu ===
+
+   Number of wires:              13811
+   Number of wire bits:          14962
+   Number of public wires:          40
+   Number of public wire bits:    1191
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:               4718
+     $_ANDNOT_                     419
+     $_AND_                         39
+     $_MUX_                       1024
+     $_NAND_                        89
+     $_NOR_                        108
+     $_NOT_                         66
+     $_ORNOT_                       20
+     $_OR_                         327
+     $_XNOR_                       114
+     $_XOR_                        106
+     sky130_fd_sc_hd__dfrtp_2       32
+     sky130_fd_sc_hd__dfxtp_2     1024
+     sky130_fd_sc_hd__mux2_1       390
+     sky130_fd_sc_hd__mux4_1       960
+
